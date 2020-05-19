@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e8d8718d-c587-442d-a4df-0cbc2b028a22" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Person.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,10 +102,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="firts add" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="854" y="111" key="CommitChangelistDialog2" timestamp="1589895994757">
+    <state x="854" y="111" key="CommitChangelistDialog2" timestamp="1589896437273">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="854" y="111" key="CommitChangelistDialog2/0.0.1858.1080@0.0.1858.1080" timestamp="1589895994757" />
+    <state x="854" y="111" key="CommitChangelistDialog2/0.0.1858.1080@0.0.1858.1080" timestamp="1589896437273" />
     <state width="1815" height="294" key="GridCell.Tab.0.bottom" timestamp="1589896250206">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
