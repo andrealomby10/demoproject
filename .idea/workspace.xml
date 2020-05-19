@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8d8718d-c587-442d-a4df-0cbc2b028a22" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Animal.java" afterDir="false" />
-    </list>
+    <list default="true" id="e8d8718d-c587-442d-a4df-0cbc2b028a22" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,7 +112,28 @@
       <option name="project" value="LOCAL" />
       <updated>1589897107526</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="firts add">
+      <created>1589897428889</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1589897428889</updated>
+    </task>
+    <task id="LOCAL-00007" summary="firts add">
+      <created>1589897438657</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1589897438657</updated>
+    </task>
+    <task id="LOCAL-00008" summary="firts add">
+      <created>1589897534377</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1589897534377</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -133,14 +152,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="firts add" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1198" y="259" key="#com.intellij.ide.util.MemberChooser" timestamp="1589897304304">
+    <state x="1198" y="259" key="#com.intellij.ide.util.MemberChooser" timestamp="1589897515609">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="1198" y="259" key="#com.intellij.ide.util.MemberChooser/0.0.1858.1080@0.0.1858.1080" timestamp="1589897304304" />
-    <state x="854" y="111" key="CommitChangelistDialog2" timestamp="1589897105876">
+    <state x="1198" y="259" key="#com.intellij.ide.util.MemberChooser/0.0.1858.1080@0.0.1858.1080" timestamp="1589897515609" />
+    <state x="854" y="111" key="CommitChangelistDialog2" timestamp="1589897533448">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="854" y="111" key="CommitChangelistDialog2/0.0.1858.1080@0.0.1858.1080" timestamp="1589897105876" />
+    <state x="854" y="111" key="CommitChangelistDialog2/0.0.1858.1080@0.0.1858.1080" timestamp="1589897533448" />
     <state width="883" height="293" key="GridCell.Tab.0.bottom" timestamp="1589897097764">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
@@ -157,6 +176,10 @@
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state width="883" height="293" key="GridCell.Tab.0.right/0.0.1858.1080@0.0.1858.1080" timestamp="1589897097764" />
+    <state x="985" y="276" key="Vcs.Push.Dialog.v2" timestamp="1589897635696">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="985" y="276" key="Vcs.Push.Dialog.v2/0.0.1858.1080@0.0.1858.1080" timestamp="1589897635696" />
     <state x="738" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589895860064">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
