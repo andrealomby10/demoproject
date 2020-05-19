@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8d8718d-c587-442d-a4df-0cbc2b028a22" name="Default Changelist" comment="" />
+    <list default="true" id="e8d8718d-c587-442d-a4df-0cbc2b028a22" name="Default Changelist" comment="firts add">
+      <change afterPath="$PROJECT_DIR$/src/com/company/MyClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/MyServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +52,9 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -148,6 +155,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="firts add" />
     <option name="LAST_COMMIT_MESSAGE" value="firts add" />
   </component>
@@ -156,10 +164,14 @@
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state x="1198" y="259" key="#com.intellij.ide.util.MemberChooser/0.0.1858.1080@0.0.1858.1080" timestamp="1589897515609" />
-    <state x="854" y="111" key="CommitChangelistDialog2" timestamp="1589897533448">
+    <state x="854" y="111" key="CommitChangelistDialog2" timestamp="1589899588003">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="854" y="111" key="CommitChangelistDialog2/0.0.1858.1080@0.0.1858.1080" timestamp="1589897533448" />
+    <state x="854" y="111" key="CommitChangelistDialog2/0.0.1858.1080@0.0.1858.1080" timestamp="1589899588003" />
+    <state x="1173" y="298" key="FileChooserDialogImpl" timestamp="1589899145704">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="1173" y="298" key="FileChooserDialogImpl/0.0.1858.1080@0.0.1858.1080" timestamp="1589899145704" />
     <state width="883" height="293" key="GridCell.Tab.0.bottom" timestamp="1589897097764">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
