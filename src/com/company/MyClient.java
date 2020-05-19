@@ -17,7 +17,8 @@ public class MyClient {
             return;
         }
 
-        MyClient client = new MyClient(args[0],Integer.parseInt(args[1]));
+        //MyClient client = new MyClient(args[0],Integer.parseInt(args[1]));
+        MyClient client = new MyClient("",1122);
         client.start();
     }
 
