@@ -12,13 +12,13 @@ public class MyClient {
 
     public static void main(String args[]) {
 
-        if (args.length!=2)  {
+        /*if (args.length!=2)  {
             System.out.println("Usage: java MyClient <address> <port>");
             return;
-        }
+        }*/
 
         //MyClient client = new MyClient(args[0],Integer.parseInt(args[1]));
-        MyClient client = new MyClient("",1122);
+        MyClient client = new MyClient("whitelodge.ns0.it",7500);
         client.start();
     }
 
