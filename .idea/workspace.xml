@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8d8718d-c587-442d-a4df-0cbc2b028a22" name="Default Changelist" comment="" />
+    <list default="true" id="e8d8718d-c587-442d-a4df-0cbc2b028a22" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/out/production/demoproject/com/company/RMIClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/demoproject/com/company/RMIClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/demoproject/com/company/RMIServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/demoproject/com/company/RMIServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/demoproject/com/company/Services.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -211,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590242796009</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="implementing rmi server">
+      <created>1590242931940</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1590242931940</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -246,10 +257,10 @@
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state x="950" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1590239878652" />
-    <state x="854" y="111" key="CommitChangelistDialog2" timestamp="1590242794733">
+    <state x="854" y="111" key="CommitChangelistDialog2" timestamp="1590242931011">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="854" y="111" key="CommitChangelistDialog2/0.0.1858.1080@0.0.1858.1080" timestamp="1590242794733" />
+    <state x="854" y="111" key="CommitChangelistDialog2/0.0.1858.1080@0.0.1858.1080" timestamp="1590242931011" />
     <state x="92" y="92" width="1674" height="896" key="DiffContextDialog" timestamp="1590239612751">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
@@ -274,10 +285,10 @@
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state width="881" height="287" key="GridCell.Tab.0.right/0.0.1858.1080@0.0.1858.1080" timestamp="1589902458203" />
-    <state x="985" y="276" key="Vcs.Push.Dialog.v2" timestamp="1590240707627">
+    <state x="985" y="276" key="Vcs.Push.Dialog.v2" timestamp="1590242940168">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="985" y="276" key="Vcs.Push.Dialog.v2/0.0.1858.1080@0.0.1858.1080" timestamp="1590240707627" />
+    <state x="985" y="276" key="Vcs.Push.Dialog.v2/0.0.1858.1080@0.0.1858.1080" timestamp="1590242940168" />
     <state x="738" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589895860064">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
