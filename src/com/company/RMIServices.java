@@ -4,7 +4,7 @@ import java.rmi.Remote;
 import java.rmi.RemoteException;
 import java.util.ArrayList;
 
-public interface Services extends Remote {
+public interface RMIServices extends Remote {
 
     public String getDate() throws RemoteException;
     public String toUP(String s) throws RemoteException;

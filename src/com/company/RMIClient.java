@@ -15,7 +15,7 @@ public class RMIClient {
         String rmi_name = args[1];
 
         try {
-            Services server = (Services) Naming.lookup("rmi://"+address+"/"+rmi_name);
+            RMIServices server = (RMIServices) Naming.lookup("rmi://"+address+"/"+rmi_name);
 
             System.out.println("L'ora attuale e': ");
             System.out.println(server.getDate());

@@ -7,7 +7,7 @@ import java.rmi.server.UnicastRemoteObject;
 import java.util.ArrayList;
 import java.util.Date;
 
-public class RMIServer extends UnicastRemoteObject implements Services {
+public class RMIServer extends UnicastRemoteObject implements RMIServices {
     PersonList person_list = new PersonList();
 
     protected RMIServer() throws RemoteException {
@@ -63,7 +63,7 @@ public class RMIServer extends UnicastRemoteObject implements Services {
 
     public static void main(String args[]) {
         try {
-            Services services = new RMIServer();
+            RMIServices services = new RMIServer();
             Naming.rebind("listserver",services);
         } catch (RemoteException e) {
             e.printStackTrace();
