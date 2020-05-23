@@ -19,13 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8d8718d-c587-442d-a4df-0cbc2b028a22" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/PersonList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Services.java" afterDir="false" />
-    </list>
+    <list default="true" id="e8d8718d-c587-442d-a4df-0cbc2b028a22" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +51,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager" selected="Application.MyClient">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -181,7 +176,21 @@
       <option name="project" value="LOCAL" />
       <updated>1589902389895</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="firts add">
+      <created>1590239578983</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1590239578983</updated>
+    </task>
+    <task id="LOCAL-00013" summary="firts add">
+      <created>1590239588811</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1590239588811</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -211,10 +220,14 @@
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state x="609" y="275" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1590238944138" />
-    <state x="854" y="111" key="CommitChangelistDialog2" timestamp="1589902388227">
+    <state x="854" y="111" key="CommitChangelistDialog2" timestamp="1590239587876">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="854" y="111" key="CommitChangelistDialog2/0.0.1858.1080@0.0.1858.1080" timestamp="1589902388227" />
+    <state x="854" y="111" key="CommitChangelistDialog2/0.0.1858.1080@0.0.1858.1080" timestamp="1590239587876" />
+    <state x="92" y="92" width="1674" height="896" key="DiffContextDialog" timestamp="1590239612751">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="92" y="92" width="1674" height="896" key="DiffContextDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1590239612751" />
     <state x="1173" y="298" key="FileChooserDialogImpl" timestamp="1589899145704">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
@@ -235,10 +248,10 @@
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state width="881" height="287" key="GridCell.Tab.0.right/0.0.1858.1080@0.0.1858.1080" timestamp="1589902458203" />
-    <state x="985" y="276" key="Vcs.Push.Dialog.v2" timestamp="1589901447885">
+    <state x="985" y="276" key="Vcs.Push.Dialog.v2" timestamp="1590239605328">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="985" y="276" key="Vcs.Push.Dialog.v2/0.0.1858.1080@0.0.1858.1080" timestamp="1589901447885" />
+    <state x="985" y="276" key="Vcs.Push.Dialog.v2/0.0.1858.1080@0.0.1858.1080" timestamp="1590239605328" />
     <state x="738" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589895860064">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
