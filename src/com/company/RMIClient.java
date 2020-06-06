@@ -11,8 +11,11 @@ public class RMIClient {
     public static void main(String args[]) {
         // usual stuff here... menu, etc...
 
-        String address = args[0];
-        String rmi_name = args[1];
+        //String address = args[0];
+        //String rmi_name = args[1];
+
+        String address = "whitelodge.ns0.it";
+        String rmi_name = "rmiservices";
 
         try {
             RMIServices server = (RMIServices) Naming.lookup("rmi://"+address+"/"+rmi_name);
